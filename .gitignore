@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated text files
+demo.txt
+python_notes.txt
+students.txt
+
+# Operating System files
+.DS_Store
+Thumbs.db
